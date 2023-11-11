@@ -1,0 +1,31 @@
+
+___________
+fastas/ecoli/Escherichia_coli_fraction0000100_READS_MIXED.fasta
+The time difference for custom is :0.0002710000262595713
+len of = 100
+___________
+fastas/ecoli/Escherichia_coli_fraction0000500_READS_MIXED.fasta
+The time difference for custom is :0.14201550002326258
+len of = 500
+___________
+fastas/ecoli/Escherichia_coli_fraction0001000_READS_MIXED.fasta
+The time difference for custom is :0.8119400000141468
+len of = 1000
+___________
+fastas/ecoli/Escherichia_coli_fraction0005000_READS_MIXED.fasta
+The time difference for custom is :22.341044800006784
+len of = 5000
+___________
+fastas/ecoli/Escherichia_coli_fraction0010000_READS_MIXED.fasta
+The time difference for custom is :93.97888929999317
+len of = 10000
+___________
+fastas/ecoli/Escherichia_coli_fraction0050000_READS_MIXED.fasta
+The time difference for custom is :2331.4872466999805
+len of = 50000
+___________
+fastas/ecoli/Escherichia_coli_fraction0100000_READS_MIXED.fasta
+The time difference for custom is :9588.073138800013
+len of = 100000
+___________
+fastas/ecoli/Escherichia_coli_fraction0500000_READS_MIXED.fasta
